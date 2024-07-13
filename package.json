@@ -1,8 +1,6 @@
 {
   "name": "is-ecma-keyword",
-  "private": true,
-  "version": "1.0.0",
-  "type": "module",
+  "version": "1.0.3",
   "types": "lib/index.d.ts",
   "main": "lib/index.cjs.js",
   "module": "lib/index.es.js",

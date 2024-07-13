@@ -2,6 +2,7 @@
 node_modules/
 public/
 src/
+index.html
 .gitignore
 *.yaml
 *.lock

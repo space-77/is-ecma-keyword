@@ -1,0 +1,38 @@
+{
+  "name": "is-ecma-keyword",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "types": "lib/index.d.ts",
+  "main": "lib/index.cjs.js",
+  "module": "lib/index.es.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "tscc": "tsc",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "ES2016",
+    "ECMAScript",
+    "keyword",
+    "ES6",
+    "ES7"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/space-77/is-ecma-keyword"
+  },
+  "bugs": {
+    "url": "https://github.com/space-77/is-ecma-keyword/issues"
+  },
+  "homepage": "https://github.com/space-77/is-ecma-keyword",
+  "author": "space-77 (next0186@gmail.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.14.10",
+    "typescript": "^5.2.2",
+    "vite": "^5.3.1",
+    "vite-plugin-dts": "^3.9.1"
+  }
+}
